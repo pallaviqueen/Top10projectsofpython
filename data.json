@@ -1,17 +1,16 @@
 {
     "Data" : [
      {
-          "Name" : "Person 1",
+          "Name" : "Person1",
           "Fact" : "Programming is amazing"
      },
      {
-          "Name" : "Person 2",
+          "Name" : "Person2",
           "Fact" : "The world programmer was a women"
      },
      {
-          "Name" : "Person 3",
+          "Name" : "Person3",
           "Fact" : "There are more than 700 Programming languages"
-     },
-    
+     }    
      ]
 }
